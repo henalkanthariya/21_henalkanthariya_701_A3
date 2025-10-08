@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<students>
+  <student>
+    <name>Rahul</name>
+    <roll>101</roll>
+    <class>10A</class>
+  </student>
+  <student>
+    <name>Sana</name>
+    <roll>102</roll>
+    <class>10A</class>
+  </student>
+</students>
